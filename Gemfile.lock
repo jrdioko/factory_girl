@@ -85,7 +85,7 @@ GEM
       atomic
     timecop (0.6.2.2)
     tzinfo (0.3.37)
-    yard (0.8.7)
+    yard (0.9.25)
 
 PLATFORMS
   java
